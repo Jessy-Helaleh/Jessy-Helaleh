@@ -27,6 +27,7 @@ Git • GitHub • Android Studio • MySQL Workbench • Linux • NASM
 ASP.NET Core • C# • Entity Framework Core • MySQL
 
 Hotel management and reservation system developed as a university project. My main contribution was designing the relational database, including hotels, rooms, customers, employees, bookings, renting, amenities, and other system entities.
+🔗 Repository: https://github.com/Jessy-Helaleh/E-Hotels-Web-Application
 
 📱 Event Search Android App
 
