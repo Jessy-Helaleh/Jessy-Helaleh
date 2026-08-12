@@ -46,12 +46,18 @@ UI/UX • User Research
 
 University project focused on analyzing the user experience of an e-commerce platform through user research and survey-based analysis.
 
-✈️ Explore Trip https://github.com/N3TTI3/SEG3125---Lab-8
+✈️ Explore Trip 
 
 UI/UX • Web Design
 
 Travel-planning interface inspired by platforms such as Expedia, designed to help users explore and organize travel options through an intuitive interface.
+🔗 Repository: https://github.com/N3TTI3/SEG3125---Lab-8
 
+🚌 Bus Stop Detection & Counting
+
+A computer vision project built with Python and OpenCV to analyze bus-stop footage, detect activity within a defined region of interest (ROI), and count people in the area.
+
+🔗 Repository: 
 
 🔐 Cybersecurity
 
