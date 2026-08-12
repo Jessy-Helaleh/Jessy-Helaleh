@@ -46,12 +46,12 @@ UI/UX • User Research
 
 University project focused on analyzing the user experience of an e-commerce platform through user research and survey-based analysis.
 
-✈️ Explore Trip
+✈️ Explore Trip https://github.com/N3TTI3/SEG3125---Lab-8
 
 UI/UX • Web Design
 
 Travel-planning interface inspired by platforms such as Expedia, designed to help users explore and organize travel options through an intuitive interface.
-https://github.com/N3TTI3/SEG3125---Lab-8
+
 
 🔐 Cybersecurity
 
