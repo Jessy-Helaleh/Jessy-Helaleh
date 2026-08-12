@@ -45,6 +45,7 @@ Front-end website designed for a hair salon with a focus on usability, organizat
 UI/UX • User Research
 
 University project focused on analyzing the user experience of an e-commerce platform through user research and survey-based analysis.
+🔗 Repository: https://github.com/N3TTI3/SEG3125-group3-lab6
 
 ✈️ Explore Trip 
 
