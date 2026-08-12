@@ -57,7 +57,7 @@ Travel-planning interface inspired by platforms such as Expedia, designed to hel
 
 A computer vision project built with Python and OpenCV to analyze bus-stop footage, detect activity within a defined region of interest (ROI), and count people in the area.
 
-🔗 Repository: 
+🔗 Repository: https://github.com/Jessy-Helaleh/Bus_stop
 
 🔐 Cybersecurity
 
