@@ -34,6 +34,7 @@ Hotel management and reservation system developed as a university project. My ma
 Java • Android Studio • Firebase
 
 Android application for searching and managing events, with Firebase used to store and manage application data.
+🔗 Repository: https://github.com/Jessy-Helaleh/Event-Management-Android-App
 
 💇 Hair Salon Website
 
